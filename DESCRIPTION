@@ -18,7 +18,7 @@ Description: Functions implementing the Significance Analysis of
         calculated to summarize the three statistics, and optionally a
         Q-value is computed to estimate the significance of the
         SAPS_score by calculating SAPS_scores for random gene sets.
-Version: 0.99.8
+Version: 1.99.0
 biocViews: BiomedicalInformatics, GeneExpression, GeneSetEnrichment,
         DifferentialExpression, Survival
 Authors@R: c( person("Daniel", "Schmolze", email = "saps@schmolze.com",
